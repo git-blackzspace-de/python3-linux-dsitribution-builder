@@ -1,0 +1,11 @@
+{
+  "version": "1.36.1",
+  "url": "https://busybox.net/downloads/busybox-1.36.1.tar.bz2",
+  "cross_compile": {
+    "arch": "aarch64",
+    "compiler_prefix": "aarch64-linux-gnu-",
+    "cflags": "-O2",
+    "ldflags": ""
+  },
+  "output_dir": "build"
+}
